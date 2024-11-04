@@ -1,5 +1,6 @@
 ArcGIS Notes:
     Potential Features:
+    <br>
         Advanced Filter Panel: Add a custom filter panel allowing users to filter tracts based on poverty rate, demographics, or other factors
         Heatmap Overlay: Layer a heatmap to show areas with higher poverty density
         Time-Series Slider: Add a time slider to show changes in poverty levels or adoption status over time
