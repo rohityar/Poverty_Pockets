@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 1,
+          "city_name": "San Francisco",
+          "PercentagePrivate": 20,
+          "PercentagePublic": 80
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4194, 37.7749]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 2,
+          "city_name": "Oakland",
+          "PercentagePrivate": 15,
+          "PercentagePublic": 85
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2711, 37.8044]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 3,
+          "city_name": "San Jose",
+          "PercentagePrivate": 25,
+          "PercentagePublic": 75
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-121.8863, 37.3382]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 4,
+          "city_name": "Berkeley",
+          "PercentagePrivate": 18,
+          "PercentagePublic": 82
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2727, 37.8715]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 5,
+          "city_name": "Palo Alto",
+          "PercentagePrivate": 30,
+          "PercentagePublic": 70
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.1430, 37.4419]
+        }
+      }
+    ]
+  }
+  
